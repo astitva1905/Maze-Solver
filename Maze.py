@@ -71,7 +71,7 @@ def chgrid(s):
 		root = node(start)
 		w = findnext(a,root)
 		a = root.tb(end,a)
-		pmaze(a)
+		#pmaze(a)
 		final(a)
 		pass
 
