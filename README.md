@@ -2,6 +2,7 @@
 
 Helloo!
 This is a small project that helps you create square mazes and solve them instantly. You can get these mazes solved at the press of a button. 
+This project is currently in Beta testing. 
 Please ensure that the maze you create follows the following rules :
 
 ## Rules
