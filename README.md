@@ -2,11 +2,11 @@
 
 Helloo!
 This is a small project that helps you create square mazes and solve them instantly. You can get these mazes solved at the press of a button.  
-![Design Your Maze](https://github.com/astitva1905/Maze-Solver/blob/master/Solved.jpeg)  
-Design Your Maze!  
-![See it get solved](https://github.com/astitva1905/Maze-Solver/blob/master/Unsolved.jpeg)  
-See it get Solved  
-This project is currently in Beta testing. 
+![Design Your Maze](https://github.com/astitva1905/Maze-Solver/blob/master/Unsolved.jpeg)  
+<br>Design Your Maze! <br><br> 
+![See it get solved](https://github.com/astitva1905/Maze-Solver/blob/master/Solved.jpeg)  
+<br>See it get Solved! <br><br>
+This project is currently in Beta testing. <br>
 Please ensure that the maze you create follows the following rules :
 
 ## Rules
